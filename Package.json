@@ -1,0 +1,9 @@
+{
+  "author": "Bacon_Space",
+  "name": "Twitch-Bot",
+  "version": "0.1.3",
+  "dependencies": {
+    "async": "^1.4.2",
+    "twitch-irc": "latest"
+  }
+}
