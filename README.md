@@ -1,5 +1,7 @@
 #My-Twitch-Bot
 
+[![Documentation Status](https://readthedocs.org/projects/twitch-bot/badge/?version=latest)](http://twitch-bot.readthedocs.org/en/latest/?badge=latest)
+
 Made By [Bacon_Space](http://www.beam.pro/bacon_space)
 
 Free 2 use Bot 
