@@ -15,3 +15,5 @@ My Twitter is [@Bacon_Space](http://www.twitter.com/bacon_space)
 My Beam Stream is [Bacon_Space](http://www.beam.pro/bacon_space)
 
 My Email is [Contact](mailto:thespaceguild@gmail.com)
+
+My Discord is [Discord](http://discord.me/Bacon_Space)
