@@ -1,0 +1,5 @@
+{
+	"token": "oauth:bottoken",
+	"bot": "botname",
+	"channel": "#channel"
+}
