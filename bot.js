@@ -1,15 +1,15 @@
 var irc = require('twitch-irc');
-
+var config = require("./config.json");
 var clientOptions = {
     options: {
         debug: true,
         debugIgnore: ['ping', 'chat', 'action']
     },
     identity: {
-        username: 'Bot_name',
-        password: ' oauth: '
+        username: config.bot,
+        password: config.token,
     },
-    channels: ['Your Channel']
+    channels: [config.channel]
 }
 var client = new irc.client(clientOptions);
 
