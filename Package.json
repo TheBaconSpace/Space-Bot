@@ -1,6 +1,6 @@
 {
   "author": "Bacon_Space",
-  "name": "TwitchBot",
+  "name": "spacebot",
   "version": "0.1.3",
   "dependencies": {
     "async": "^1.4.2",
